@@ -1,7 +1,5 @@
-from file1 import greet
-
 def main():
-    greet()
+    print(__name__)
 
 
 if __name__ == '__main__':
